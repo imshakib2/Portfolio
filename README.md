@@ -70,7 +70,7 @@ Credential Badge:
 
 ## Live Portfolio
 
-Portfolio Website: [imshakib22.netlify.app](https://imshakib22.netlify.app)
+Portfolio Website: [portfolio-shakib2.netlify.app/](https://portfolio-shakib2.netlify.app/)
 
 
 ## Contact
