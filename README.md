@@ -65,10 +65,13 @@ Graduation Year: 2026
 
 Issued: August 2025
 
+Credential Badge:
+[View Verified Badge](https://www.credly.com/go/A6UDxhrr)
+
 ## Live Portfolio
 
-Portfolio Website:
-https://imshakib22.netlify.app
+Portfolio Website: [imshakib22.netlify.app](https://imshakib22.netlify.app)
+
 
 ## Contact
 
