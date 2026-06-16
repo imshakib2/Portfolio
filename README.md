@@ -77,9 +77,6 @@ Email: [shakibhossen778899@gmail.com](mailto:shakibhossen778899@gmail.com)
 LinkedIn:
 LinkedIn: [linkedin.com/in/imshakib0000](https://linkedin.com/in/imshakib0000)
 
-GitHub:
-github.com/imshakib2
-
 Location:
 Dhaka, Bangladesh
 
